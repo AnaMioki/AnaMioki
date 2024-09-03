@@ -1,7 +1,35 @@
-# 💫 About Me:
- Sou Ana Carolina Fiorini Mioki, uma desenvolvedora em ascensão apaixonada por tecnologia e design!</h2> <p align="center"> Estou mergulhada de cabeça no mundo da programação, explorando tudo que posso sobre desenvolvimento web e .NET. 💻🚀 Com uma sede insaciável por conhecimento, estou constantemente aprendendo e aprimorando minhas habilidades em HTML5, CSS3, JavaScript e muito mais! 🌟 </p> <p align="center">  <p align="center"> Aqui no meu perfil, você vai encontrar meus projetos mais recentes, estudos e talvez até algumas aventuras no universo da programação. Sinta-se à vontade para explorar e me acompanhar nessa jornada de crescimento! 🚀💡
-<br> <br>
- Atualmente estou trabalhando em: Projetos desafiadores de front-end e explorando o back-end para expandir minhas habilidades.<br><br>👯 Estou buscando colaborar em: Projetos que envolvam design UI/UX e desenvolvimento web, especialmente aqueles com foco em soluções inovadoras e criativas.<br><br>🤝 Estou procurando ajuda com: Exploração mais profunda de tecnologias back-end e melhores práticas para desenvolvimento de software.<br><br>🌱 Atualmente estou aprendendo: Desenvolvimento back-end com .NET e aprimorando meus conhecimentos em C#.<br><br>💬 Pergunte-me sobre: Desenvolvimento front-end, prototipagem UI/UX e como criar experiências web envolventes.<br><br>⚡ Curiosidade: Sou uma entusiasta de tecnologia que adora aprender algo novo todos os dias e enfrentar desafios para crescer na área de desenvolvimento!<br><br> 
+# 💫 Sobre Mim
+
+Olá! Sou Ana Carolina Fiorini Mioki, uma desenvolvedora apaixonada por tecnologia e design. 🚀💻
+
+Atualmente, estou imersa no universo da programação, focada em desenvolvimento web e .NET. Estou sempre em busca de novos conhecimentos e desafios, especialmente em HTML5, CSS3 e JavaScript. 🌟
+
+Além de codificar, adoro criar protótipos e interfaces de usuário usando ferramentas como Figma e Miro. É aqui que você pode conferir meus projetos mais recentes, meus estudos e algumas das minhas aventuras no mundo da programação. 🌐✨
+
+### Atualmente, estou:
+
+- Trabalhando em projetos desafiadores de front-end e explorando o desenvolvimento back-end para expandir minhas habilidades.
+
+### Buscando colaborar em:
+
+- Projetos que combinem design UI/UX e desenvolvimento web, com foco em soluções inovadoras e criativas.
+
+### Procurando ajuda com:
+
+- Exploração mais aprofundada de tecnologias back-end e melhores práticas para desenvolvimento de software.
+
+### Aprendendo:
+
+- Desenvolvimento back-end com .NET e aprimorando meus conhecimentos em C#.
+
+### Pergunte-me sobre:
+
+- Desenvolvimento front-end, prototipagem UI/UX e como criar experiências web envolventes.
+
+### Curiosidade:
+
+- Sou uma entusiasta de tecnologia que adora aprender algo novo todos os dias e enfrentar desafios para crescer na área de desenvolvimento! ⚡
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ana-mioki-aprendiz-engenharia-de-produtos/) 
