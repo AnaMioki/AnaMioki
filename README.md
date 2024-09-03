@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Me chamo Ana Mioki, sou estudante e **Desenvolvedora .NET** em formação, apaixonada por tecnologia e design.</h2>
+<h2 align="left">Olá 👋! Eu sou Ana Carolina Fiorini Mioki</h2>
 
 ###
 
