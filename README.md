@@ -1,6 +1,6 @@
 # 💫 About Me:
  Sou Ana Carolina Fiorini Mioki, uma desenvolvedora em ascensão apaixonada por tecnologia e design!</h2> <p align="center"> Estou mergulhada de cabeça no mundo da programação, explorando tudo que posso sobre desenvolvimento web e .NET. 💻🚀 Com uma sede insaciável por conhecimento, estou constantemente aprendendo e aprimorando minhas habilidades em HTML5, CSS3, JavaScript e muito mais! 🌟 </p> <p align="center">  <p align="center"> Aqui no meu perfil, você vai encontrar meus projetos mais recentes, estudos e talvez até algumas aventuras no universo da programação. Sinta-se à vontade para explorar e me acompanhar nessa jornada de crescimento! 🚀💡
-
+<br> <br>
  Atualmente estou trabalhando em: Projetos desafiadores de front-end e explorando o back-end para expandir minhas habilidades.<br><br>👯 Estou buscando colaborar em: Projetos que envolvam design UI/UX e desenvolvimento web, especialmente aqueles com foco em soluções inovadoras e criativas.<br><br>🤝 Estou procurando ajuda com: Exploração mais profunda de tecnologias back-end e melhores práticas para desenvolvimento de software.<br><br>🌱 Atualmente estou aprendendo: Desenvolvimento back-end com .NET e aprimorando meus conhecimentos em C#.<br><br>💬 Pergunte-me sobre: Desenvolvimento front-end, prototipagem UI/UX e como criar experiências web envolventes.<br><br>⚡ Curiosidade: Sou uma entusiasta de tecnologia que adora aprender algo novo todos os dias e enfrentar desafios para crescer na área de desenvolvimento!<br><br> 
 
 ## 🌐 Socials:
