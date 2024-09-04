@@ -10,21 +10,11 @@ Além de codificar, adoro criar protótipos e interfaces de usuário usando ferr
 
 - Trabalhando em projetos desafiadores de front-end e explorando o desenvolvimento back-end para expandir minhas habilidades.
 
-### Buscando colaborar em:
-
-- Projetos que combinem design UI/UX e desenvolvimento web, com foco em soluções inovadoras e criativas.
-
-### Procurando ajuda com:
-
-- Exploração mais aprofundada de tecnologias back-end e melhores práticas para desenvolvimento de software.
 
 ### Aprendendo:
 
 - Desenvolvimento back-end com .NET e aprimorando meus conhecimentos em C#.
 
-### Pergunte-me sobre:
-
-- Desenvolvimento front-end, prototipagem UI/UX e como criar experiências web envolventes.
 
 ### Curiosidade:
 
