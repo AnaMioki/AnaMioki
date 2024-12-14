@@ -2,13 +2,9 @@
 
 Olá! Sou Ana Carolina Fiorini Mioki, uma desenvolvedora apaixonada por tecnologia e design. 🚀💻
 
-Atualmente, estou imersa no universo da programação, focada em desenvolvimento web e .NET. Estou sempre em busca de novos conhecimentos e desafios, especialmente em HTML5, CSS3 e JavaScript. 🌟
+Atualmente, estou imersa no universo da programação, focada em desenvolvimento web e .NET. Estou sempre em busca de novos conhecimentos e desafios, especialmente em backend, agora com foco em criações de api.🌟
 
 Além de codificar, adoro criar protótipos e interfaces de usuário usando ferramentas como Figma e Miro. É aqui que você pode conferir meus projetos mais recentes, meus estudos e algumas das minhas aventuras no mundo da programação. 🌐✨
-
-### Atualmente, estou:
-
-- Trabalhando em projetos desafiadores de front-end e explorando o desenvolvimento back-end para expandir minhas habilidades.
 
 
 ### Aprendendo:
