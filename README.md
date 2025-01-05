@@ -1,11 +1,8 @@
 # 💫 Sobre Mim
 
-Olá! Sou Ana Carolina Fiorini Mioki, uma desenvolvedora apaixonada por tecnologia e design. 🚀💻
+Olá! Sou Ana Carolina Fiorini Mioki, tenho 20 anos e sou uma entusiasta da tecnologia.
 
 Atualmente, estou imersa no universo da programação, focada em desenvolvimento web e .NET. Estou sempre em busca de novos conhecimentos e desafios, especialmente em backend, agora com foco em criações de api.🌟
-
-Além de codificar, adoro criar protótipos e interfaces de usuário usando ferramentas como Figma e Miro. É aqui que você pode conferir meus projetos mais recentes, meus estudos e algumas das minhas aventuras no mundo da programação. 🌐✨
-
 
 ### Aprendendo:
 
