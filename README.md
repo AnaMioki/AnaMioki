@@ -6,8 +6,6 @@ Atualmente, estou focada no desenvolvimento **back-end**, com ênfase em **.NET 
 
 Tenho vivência como **Product Owner** e desenvolvedora em projetos acadêmicos e colaborativos, além de um forte senso de responsabilidade, proatividade e trabalho em equipe — valores que também desenvolvi como escoteira.
 
----
-
 ### 🚀 Em andamento
 
 - Desenvolvimento back-end com **C# / ASP.NET**
