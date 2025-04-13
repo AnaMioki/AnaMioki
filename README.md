@@ -16,17 +16,6 @@ Tenho vivência como **Product Owner** e desenvolvedora em projetos acadêmicos 
 - Projetos voltados para **IoT e análise de dados**
 - Boas práticas de arquitetura de software
 
----
-
-### 🧠 Já explorei
-
-- **JavaScript** e **React.js**
-- Prototipagem com **Figma**
-- Organização ágil com **Jira**, **Trello**, **Notion** e **Miro**
-- Versionamento com **Git** e **GitHub**
-- UI/UX e responsividade com **HTML**, **CSS** e **Bootstrap**
----
-
 ## 🌐 Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-mioki/) 
 
