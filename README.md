@@ -4,7 +4,7 @@ Olá! Me chamo **Ana Mioki**, tenho 20 anos e sou estudante de **Análise e Dese
 
 Atualmente, estou focada no desenvolvimento **back-end**, com ênfase em **.NET (C#)**, construção de **APIs RESTful** e integração com **bancos de dados relacionais**. Busco constantemente desafios que me permitam aprender, evoluir e construir soluções tecnológicas com propósito e eficiência.
 
-Tenho vivência como **Product Owner** e desenvolvedora em projetos acadêmicos e colaborativos, além de um forte senso de responsabilidade, proatividade e trabalho em equipe — valores que também desenvolvi como escoteira.
+Tenho vivência como Product Owner e **desenvolvedora full-stack** em projetos acadêmicos e colaborativos, além de um forte senso de responsabilidade, proatividade e trabalho em equipe — valores que também desenvolvi como escoteira.
 
 ### 🚀 Em andamento
 
