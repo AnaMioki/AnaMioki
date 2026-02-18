@@ -2,9 +2,9 @@
 
 Olá! Me chamo **Ana Mioki**, tenho 21 anos e sou estudante de **Análise e Desenvolvimento de Sistemas na SPTech**.
 
-Atualmente, estou focada no desenvolvimento **back-end**, com ênfase em Java e sistemas distribuídos, também com experiência em **.NET (C#)**, construção de **APIs RESTful** e integração com **bancos de dados relacionais**. Busco constantemente desafios que me permitam aprender, evoluir e construir soluções tecnológicas com propósito e eficiência.
+Atualmente, estou focada no desenvolvimento back-end, com ênfase em **Java** e sistemas distribuídos. Também possuo experiência com .NET (C#) e na construção de APIs REST. Busco desafios que me permitam evoluir tecnicamente e desenvolver soluções eficientes, escaláveis e orientadas a propósito.
 
-Tenho vivência como Product Owner e **desenvolvedora full-stack** em projetos acadêmicos e colaborativos, além de um forte senso de responsabilidade, proatividade e trabalho em equipe, valores que também desenvolvi como escoteira.
+Tenho vivência como Product Owner e desenvolvedora full-stack em projetos acadêmicos e colaborativos, além de um forte senso de responsabilidade, proatividade e trabalho em equipe, valores que também desenvolvi como escoteira.
 
 ## 🌐 Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-mioki/) 
